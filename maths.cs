@@ -2,22 +2,22 @@ using System;
 
 public class Maths
 {
-    static public void Main ()
+    static public void Main()
     {
         string number1;
         string number2;
         int num1;
         int num2;
-        Console.Clear ();
-        Console.Write ("Please enter value 1: ");
-        number1 = Console.ReadLine ();
-        Console.Write ("Please enter value 2: ");
-        number2 = Console.ReadLine ();
+        Console.Clear();
+        Console.Write("Please enter value 1: ");
+        number1 = Console.ReadLine();
+        Console.Write("Please enter value 2: ");
+        number2 = Console.ReadLine();
 
-        num1 = Convert.ToInt32 (number1);
-        num2 = Convert.ToInt32 (number2);
+        num1 = Convert.ToInt32(number1);
+        num2 = Convert.ToInt32(number2);
 
-        Console.WriteLine ("The addition of {0} and {1} is {2}", num1, num2, num1 + num2);
+        Console.WriteLine("The addition of {0} and {1} is {2}", num1, num2, num1 + num2);
         //C = 2*pi*r
         // string radius;
         // Console.Clear();

@@ -5,8 +5,8 @@ public class MoneyConverter
     static public void Main()
     {
         string rate;
-        string dollars; 
- 
+        string dollars;
+
         Console.Clear();
         Console.Write("Entre com o valor do dólar em reais: ");
         rate = Console.ReadLine();

@@ -2,7 +2,7 @@ using System;
 
 public class FormatingMyCode
 {
-    static public void Main ()
+    static public void Main()
     {
         int x = 5;
         float y = 8;
