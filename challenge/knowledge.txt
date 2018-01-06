@@ -1,0 +1,22 @@
+Olá|Oi, como você vai?
+Olá|Olá. Que posso fazer por você?
+Oi|Oi.
+Bem|Que bom!
+Como você está?|Melhor que nunca!
+Eu vou|Você consegue!
+Eu quero|Você será capaz?
+Sim|Tem certeza?
+Sim|Como tem certeza?
+Sim|Claro que está certo.
+Não|Que pessimista!
+Não|Nunca diga nunca!
+Não|Você sabe de nada mesmo!
+Computador|Prefiro que me chame de Eliza.
+Eliza|Q?
+Elisa|É Eli-ZA carai.
+Obrigado|Foda-se!
+Tem certeza?|Sempre!
+mesmo|Sim!
+Não sei|Nem eu.
+Por que não?|Porque...
+Sério|Por que eu mentiria?
